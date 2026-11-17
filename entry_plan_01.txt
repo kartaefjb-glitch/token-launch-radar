@@ -1,0 +1,28 @@
+Plan: 30-day wealth building with $100
+
+Strategy: Crypto arbitrage + momentum trading across exchanges.
+
+Days 1-3: Setup
+- Create Binance, KuCoin, Bybit wallets
+- Setup API with $50 order limits, $25 risk per trade
+
+Days 4-7: Market Analysis
+- Pull hourly data, calculate returns and volatility
+- Identify top 10% by volatility with good liquidity
+
+Days 8-14: Arbitrage
+- Buy low, sell high across exchanges (0.5% spread)
+- $10 per trade, track fill rates (target 60%+)
+- Reinvest 50% of profits
+
+Days 15-21: Momentum
+- Buy at 1.5% pullbacks if up >2% in 6h
+- Target +3%, exit at -2% stop loss
+- Switch to mean reversion if win rate <45%
+
+Days 22-30: Risk Management
+- Scale positions: 10% to 15% to 25% of account
+- Daily drawdown: liquidate at -5% loss
+- Watch correlations, daily strategy review
+
+Goal: End 30 days with >$200 (100% return).
